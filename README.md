@@ -10,7 +10,7 @@ Estou apenas começando a dar meus passos no mundo da tecnologia. Sou formado em
 
 <center>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://docs.github.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipepcmourao/)
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)
 
