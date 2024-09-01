@@ -1,10 +1,13 @@
 # <center> Sejam Bem-vindos ao meu perfil! </center> 
+<center>
 
 ![Hello](https://www.icegif.com/wp-content/uploads/harry-potter-icegif-29.gif)
+</center>
 
 ### Olá, me chamo Felipe Mourão!<br>
 
 Estou apenas começando a dar meus passos no mundo da tecnologia. Sou formado em Contabilidade, mas busco uma transição para o mundo Dev.
+
 <center>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://docs.github.com/)
