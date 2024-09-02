@@ -1,26 +1,26 @@
-# <center> Sejam Bem-vindos ao meu perfil! </center> 
+# <center> Welcome to my profile! </center> 
 <center>
 
-![Hello](https://www.icegif.com/wp-content/uploads/harry-potter-icegif-29.gif)
+ ![Hello](https://static.vecteezy.com/system/resources/thumbnails/023/816/429/small_2x/black-hole-loop-animation-on-black-background-isolated-transparent-alpha-png.png)
+
 </center>
 
-### Olá, me chamo Felipe Mourão!<br>
+### 👋 Hello, I am Felipe Mourão!<br>
 
-Estou apenas começando a dar meus passos no mundo da tecnologia. Sou formado em Contabilidade, mas busco uma transição para o mundo Dev.
+I am just a beginner taking my first steps in the tech realm. I graduated in Accounting, but now I aim to transition to the Dev world.
 
-<center>
-
+## 🤝 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipepcmourao/)
 
+## :octocat: My presence in GitHub
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)
 
-
-
+## 💻 What I have been playing with
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]() 
 [![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=yellow)]() 
+[![VSCODE](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode&logoColor=yellow)]()
 
-</center>
 <!--
 **felipepcmourao/felipepcmourao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
