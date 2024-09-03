@@ -1,9 +1,9 @@
 # <center> Welcome to my profile! </center> 
-<center>
+<div style="text-align: center;">
 
  ![Hello](https://static.vecteezy.com/system/resources/thumbnails/023/816/429/small_2x/black-hole-loop-animation-on-black-background-isolated-transparent-alpha-png.png)
 
-</center>
+</div>
 
 ### 👋 Hello, I am Felipe Mourão!<br>
 
@@ -14,6 +14,7 @@ I am just a beginner taking my first steps in the tech realm. I graduated in Acc
 
 ## :octocat: My presence in GitHub
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&langs_count=8)
 
 ## 💻 What I have been playing with
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
