@@ -14,8 +14,12 @@ I am just a beginner taking my first steps in the tech realm. I graduated in Acc
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipepcmourao/)
 
 ## :octocat: My presence in GitHub
+<div align=center>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&show_icons=true&theme=dark)]()
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)
+
+</div>
 
 ## 💻 What I have been playing with
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
