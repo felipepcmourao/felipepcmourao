@@ -1,8 +1,9 @@
 # <center> Welcome to my profile! </center> 
-<div style="text-align: center;">
 
- ![Hello](https://static.vecteezy.com/system/resources/thumbnails/023/816/429/small_2x/black-hole-loop-animation-on-black-background-isolated-transparent-alpha-png.png)
-
+<div align=center>
+ 
+ ![Hello](https://github.githubassets.com/images/mona-loading-dark.gif)
+ 
 </div>
 
 ### 👋 Hello, I am Felipe Mourão!<br>
