@@ -1,41 +1,30 @@
-# <center> Welcome! </center> 
+# Hey, I'm Felipe 👋
 
-<div align=center>
- 
-</div>
+I'm a career changer transitioning into software development, with a background in Accounting. 
+I've been focusing on Flutter and Dart, building mobile apps from scratch and working my way 
+through concepts like state management, navigation, REST APIs, local storage, and Firebase 
+integration.
 
-### 👋 Hello, I am Felipe Mourão!<br>
+Currently completing a Flutter course at DIO, where I've developed hands-on projects including 
+an IMC calculator, a contacts list app, and various other exercises that cover the full 
+development cycle — from UI design to backend connectivity with Firebase.
 
-I am just a beginner taking my first steps in the tech realm. I graduated in Accounting, but now I aim to transition to the Dev world.
+I'm driven by problem-solving and keen on building clean, functional applications.
 
-## 🤝 Connect with me!
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipepcmourao/)
+---
 
-## :octocat: My presence in GitHub
-<div align=center>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&show_icons=true&theme=dark)]()
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)
+## 🛠️ Technologies & Tools
 
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=vscode&logoColor=yellow)
 
-## 💻 What I have been playing with
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]() 
-[![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=yellow)]() 
-[![VSCODE](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode&logoColor=yellow)]()
+---
 
-<!--
-**felipepcmourao/felipepcmourao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&show_icons=true&theme=dark)](https://github.com/felipepcmourao)
+[![Felipe's GitHub stats](https://github-readme-stats.v
