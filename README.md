@@ -1,8 +1,6 @@
-# <center> Welcome to my profile! </center> 
+# <center> Welcome! </center> 
 
 <div align=center>
- 
- ![Hello](https://github.githubassets.com/images/mona-loading-dark.gif)
  
 </div>
 
