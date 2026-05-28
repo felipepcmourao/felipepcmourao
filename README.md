@@ -26,7 +26,8 @@ I'm driven by problem-solving and keen on building clean, functional application
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&show_icons=true&theme=dark)](https://github.com/felipepcmourao)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&show_icons=true&theme=dark&layout=compact)](https://github.com/felipepcmourao)
+
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)](https://github.com/felipepcmourao)
 
 ---
