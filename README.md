@@ -46,3 +46,6 @@ Mobile developer focused on **Flutter & Dart**, building apps end-to-end — fro
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepcmourao/)
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=felipepcmourao&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
