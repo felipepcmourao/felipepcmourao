@@ -1,37 +1,48 @@
-# Hey, I'm Felipe 👋
+# Hi, I'm Felipe 👋
 
-I'm a career changer transitioning into software development, with a background in Accounting. 
-I've been focusing on Flutter and Dart, building mobile apps from scratch and working my way 
-through concepts like state management, navigation, REST APIs, local storage, and Firebase 
-integration.
-
-Currently completing a Flutter course at DIO, where I've developed hands-on projects including 
-an IMC calculator, a contacts list app, and various other exercises that cover the full 
-development cycle — from UI design to backend connectivity with Firebase.
-
-I'm driven by problem-solving and keen on building clean, functional applications.
+Mobile developer focused on **Flutter & Dart**, building apps end-to-end — from UI to backend integration. Flutter Specialist certified through DIO, with hands-on projects covering state management, reactive architecture, real-time data, authentication, and cloud backends.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=vscode&logoColor=yellow)
-
----
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcmourao&show_icons=true&theme=dark&layout=compact)](https://github.com/felipepcmourao)
-
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepcmourao&show_icons=true&theme=dark)](https://github.com/felipepcmourao)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🤝 Let's connect
+### 🎓 Certification
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipepcmourao/)
+**Flutter Specialist** — Digital Innovation One (DIO)
+
+---
+
+### 📱 Featured Flutter Projects
+
+**[desafio_cloud_firestore](https://github.com/felipepcmourao/desafio_cloud_firestore)** — Real-time chat app, built with:
+- Firebase Authentication (email/password sign-up & login)
+- Cloud Firestore for a user directory and real-time 1:1 chat rooms
+- Provider for light/dark theme state
+- Auth-gated navigation and reusable UI components (chat bubbles, tiles, drawer)
+
+**[desafio_reatividade](https://github.com/felipepcmourao/desafio_reatividade)** — Reactive to-do list app, built with:
+- Provider for reactive state management (UI updates automatically as tasks change)
+- Hive for fast local NoSQL persistence (tasks survive app restarts)
+- Full CRUD: add, edit, complete, and remove tasks
+
+---
+
+### 🧪 Also exploring
+
+- **[dio-copilot-final-lab](https://github.com/felipepcmourao/dio-copilot-final-lab)** — image analysis experiments using GitHub/Microsoft Copilot
+- **[dio-lab-open-source](https://github.com/felipepcmourao/dio-lab-open-source)** — practicing open-source contribution workflows (fork → PR)
+
+---
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepcmourao/)
