@@ -36,7 +36,7 @@ Stock, cost-per-print and sales tracker for 3D printing makers. I print and sell
 
 Customer app and admin portal for a tailoring brand, built by a small team. My part:
 
-- Features and fixes delivered through pull requests with review: 146 commits and 36 PRs in September 2026
+- Features and fixes delivered through pull requests with code review
 - Wrote the team's issues and ran structured manual QA before each delivery
 - Documented 20 architecture decisions as ADRs
 
@@ -59,12 +59,3 @@ The repositories are private; I'm happy to walk through the work in an interview
 [![Email](https://img.shields.io/badge/Email-felipepcmourao%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipepcmourao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipepcmourao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepcmourao/)
 ![Languages](https://img.shields.io/badge/Languages-Portuguese_(native)_·_English_(fluent)-555?style=flat-square)
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D view of my contribution graph" src="profile-3d-contrib/profile-green-animate.svg">
-</picture>
-
-</div>
